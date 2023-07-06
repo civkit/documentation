@@ -72,4 +72,6 @@ fashion aligned with the clients incentives.
 CivKit aims to offer good interfaces for clients softwares, where they can access market board
 services over standard Nostr or Lightning communication channels.
 
-July 2023.
+Authored July 2023.
+
+Expected Q4 2023.
