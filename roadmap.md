@@ -65,9 +65,9 @@ advantageous offers.
 ## Staking Credentials
 
 [Staking Credentials](https://github.com/civkit/staking-credentials-spec) are anti-DoS tokens enabling a
-server to protect its ressources by requesting the client a pre-payment in an exchange of a privacy-preserving
-credentials. For the CivKit, this enables the market board to manage their publication space ressources in a
-fashion aligned with the clients incentives.
+server to protect its ressources by requesting the client obtain a pre-payment in an exchange of a privacy-preserving
+credentials. For the CivKit, this enables the market board to manage their publication space resources in a
+fashion aligned with clients incentives.
 
 CivKit aims to offer good interfaces for clients softwares, where they can access market board
 services over standard Nostr or Lightning communication channels.
